@@ -1,0 +1,14 @@
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\bin\Debug\wariant_c.exe.config
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\bin\Debug\wariant_c.exe
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\bin\Debug\wariant_c.pdb
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\obj\Debug\wariant-c.csproj.CoreCompileInputs.cache
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\obj\Debug\wariant_c.exe
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\obj\Debug\wariant_c.pdb
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant_c\wariant_c\obj\Debug\wariant-c.csprojAssemblyReference.cache
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\bin\Debug\wariant-c.exe.config
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\bin\Debug\wariant-c.exe
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\bin\Debug\wariant-c.pdb
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\obj\Debug\wariant-c.csprojAssemblyReference.cache
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\obj\Debug\wariant-c.csproj.CoreCompileInputs.cache
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\obj\Debug\wariant-c.exe
+C:\Users\jezz7\Documents\Projects\wsb-algorytmy-queue\wariant-c\wariant-c\obj\Debug\wariant-c.pdb

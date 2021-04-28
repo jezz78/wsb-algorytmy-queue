@@ -1,6 +1,6 @@
 # wsb-algorytmy-queue
 
-Wariant C - kolejka na liœcie opartej o tablicê
+Wariant C - kolejka na liÅ›cie opartej o tablicÄ™
 
 
 Used tutorials:
